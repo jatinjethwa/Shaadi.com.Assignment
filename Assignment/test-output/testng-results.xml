@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-10-30T17:19:18 IST" name="Suite" finished-at="2021-10-30T17:19:35 IST" duration-ms="17140">
+    <groups>
+    </groups>
+    <test started-at="2021-10-30T17:19:18 IST" name="Test" finished-at="2021-10-30T17:19:35 IST" duration-ms="17140">
+      <class name="Shaadi.com.Assignment.CommunityTest">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Shaadi.com.Assignment.CommunityTest@2b48a640]" started-at="2021-10-30T17:19:19 IST" name="beforeMethod" finished-at="2021-10-30T17:19:21 IST" duration-ms="2193" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="VerifyCommunityTest(java.lang.String,java.lang.String)[pri:0, instance:Shaadi.com.Assignment.CommunityTest@2b48a640]" started-at="2021-10-30T17:19:21 IST" name="VerifyCommunityTest" data-provider="datarprovider" finished-at="2021-10-30T17:19:28 IST" duration-ms="6271" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.gujaratishaadi.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Gujarati]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyCommunityTest -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Shaadi.com.Assignment.CommunityTest@2b48a640]" started-at="2021-10-30T17:19:28 IST" name="afterMethod" finished-at="2021-10-30T17:19:28 IST" duration-ms="169" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:Shaadi.com.Assignment.CommunityTest@2b48a640]" started-at="2021-10-30T17:19:28 IST" name="beforeMethod" finished-at="2021-10-30T17:19:30 IST" duration-ms="1971" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="VerifyCommunityTest(java.lang.String,java.lang.String)[pri:0, instance:Shaadi.com.Assignment.CommunityTest@2b48a640]" started-at="2021-10-30T17:19:30 IST" name="VerifyCommunityTest" data-provider="datarprovider" finished-at="2021-10-30T17:19:35 IST" duration-ms="5319" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.marathishaadi.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Marathi]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyCommunityTest -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:Shaadi.com.Assignment.CommunityTest@2b48a640]" started-at="2021-10-30T17:19:35 IST" name="afterMethod" finished-at="2021-10-30T17:19:35 IST" duration-ms="183" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- Shaadi.com.Assignment.CommunityTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
